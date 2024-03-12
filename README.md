@@ -1,8 +1,10 @@
  **Jobby App** 
 HERE IS THE PREVIEW OF APP :-
+
 USERNAME: rahul , PASSWORD: rahul@2021
-CLICK HERE👇👇👇
-https://tejajobby.ccbp.tech/
+
+CLICK HERE 👉👉👉
+🔗 https://tejajobby.ccbp.tech/
 
 
 ### Design Files
