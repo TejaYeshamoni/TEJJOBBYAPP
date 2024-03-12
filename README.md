@@ -1,6 +1,8 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+ **Jobby App** 
+HERE IS THE PREVIEW OF APP  USERNAME : rahul , PASSWORD : rahul@2021
 
-### Refer to videos below:
+https://tejajobby.ccbp.tech/
+
 
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
@@ -424,11 +426,6 @@ Returns a response containing the job details
 - Roboto
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
 # TEJJOBBYAPP
 
